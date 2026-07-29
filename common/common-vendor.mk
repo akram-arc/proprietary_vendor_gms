@@ -22,6 +22,7 @@ PRODUCT_PACKAGES += \
     WellbeingPrebuilt \
     GoogleServicesFramework \
     default-permissions-gearhead.xml \
+    contextual_search.xml
 
 PRODUCT_SOONG_NAMESPACES += vendor/gms/overlay
 PRODUCT_PACKAGES += GmsOverlay GmsSettingsOverlay

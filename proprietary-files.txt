@@ -22,6 +22,9 @@ product/priv-app/AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk;PRESIGNED;R
 -product/etc/sysconfig/wellbeing.xml|807048b311355c83ef8d562a8907ad3c2640a5a5
 product/priv-app/WellbeingPrebuilt/WellbeingPrebuilt.apk;PRESIGNED;REQUIRED=WellbeingOverlay,wellbeing.xml
 
+# Contextual Search
+product/etc/sysconfig/contextual_search.xml|3ce29709a821b814657f8b9dbda4f5f6f2326e41
+
 # Setup Wizard
 product/priv-app/SetupWizardPrebuilt/SetupWizardPrebuilt.apk;PRESIGNED;REQUIRED=GoogleRestorePrebuilt-v717308
 

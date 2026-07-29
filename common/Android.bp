@@ -120,6 +120,14 @@ prebuilt_etc_xml {
 	product_specific: true,
 }
 
+prebuilt_etc {
+    name: "contextual_search.xml",
+    src: "proprietary/product/etc/sysconfig/contextual_search.xml",
+    relative_install_path: "sysconfig",
+    filename_from_src: true,
+    product_specific: true,
+}
+
 prebuilt_etc_xml {
 	name: "wellbeing.xml",
 	owner: "gms",
